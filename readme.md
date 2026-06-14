@@ -132,7 +132,7 @@ python train_pipeline.py
 
 ## 🌐 Live Demo
 
-👉 [Deployed Streamlit App](#) ← update after deployment
+👉 [Deployed Streamlit App](https://sarina-ux-deepfake-audio-app-vuqjwo.streamlit.app/)
 
 ---
 
