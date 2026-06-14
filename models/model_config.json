@@ -1,0 +1,14 @@
+{
+  "n_mels": 64,
+  "sr": 16000,
+  "duration": 2.0,
+  "input_shape": [
+    1,
+    64,
+    63
+  ],
+  "labels": {
+    "0": "Genuine (Human)",
+    "1": "Deepfake (AI-Generated)"
+  }
+}
