@@ -138,7 +138,7 @@ python train_pipeline.py
 
 ## 🎥 Demo Video
 
-👉 [Watch Demo](#) ← update after recording
+👉https://drive.google.com/file/d/1ywPvzGlogsZa7lidXJ0kBPx1mVG5iEcu/view?usp=sharing
 
 ---
 
